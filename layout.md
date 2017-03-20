@@ -1,0 +1,17 @@
+Scott_R_Veirstextsup.html
+textbfAbstract__Unde.html
+textbfIntroduction__.html
+textbfMethods__We_as.html
+textbfResults_and_di.html
+textbfConclusions__I.html
+textbfAcknowledgemen.html
+textbfReferences__hr.html
+textbfFigure.html
+figures/image1/image1.png
+textbfFig_1_Cumulati.html
+textbfFigure1.html
+figures/image2/image2.png
+textbfFig_2_Proporti.html
+textbfTable.html
+longtable_crrrrrrrr_toprule__.html
+textbfTable_1_Propor.html
