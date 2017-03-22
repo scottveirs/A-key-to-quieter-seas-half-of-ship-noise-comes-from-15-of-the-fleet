@@ -1,7 +1,7 @@
 ---
 multicolumn: false
 export-width: 
-web-width: 500px
+web-width: 500
 align: center
 float: h!
 export-filename: 
