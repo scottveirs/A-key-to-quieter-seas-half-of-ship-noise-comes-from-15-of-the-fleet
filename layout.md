@@ -1,4 +1,3 @@
-Scott_R_Veirstextsup.html
 textbfAbstract__Unde.html
 textbfIntroduction__.html
 textbfMethods__We_as.html
