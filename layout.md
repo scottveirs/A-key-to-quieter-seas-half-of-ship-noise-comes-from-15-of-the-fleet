@@ -14,5 +14,4 @@ textbfFig_2_Proporti.html
 textbfTable.html
 d4b5.html
 5805.tex
-longtable_crrrrrrrr_toprule__.html
 textbfTable_1_Propor.html
