@@ -12,5 +12,6 @@ textbfFigure1.html
 figures/image2/image2.png
 textbfFig_2_Proporti.html
 textbfTable.html
+5805.tex
 longtable_crrrrrrrr_toprule__.html
 textbfTable_1_Propor.html
