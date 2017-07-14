@@ -1,9 +1,20 @@
 ---
+version: 2
 multicolumn: false
-export-width: 
 web-width: 800
+export-width: 
 align: center
 float: h!
-export-filename: 
-version: 1
-path: figures/image2/config.yml
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - url: "/users/5650/articles/162394/master/file/figures/image2/image2.png"
+    path: figures/image2/image2.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
